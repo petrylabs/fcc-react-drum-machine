@@ -1,0 +1,96 @@
+{
+    "heaterKit": [
+      {
+        "keyboardKey": "Q",
+        "name": "Heater 1",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"
+      },
+      {
+        "keyboardKey": "W",
+        "name": "Heater 2",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"
+      },
+      {
+        "keyboardKey": "E",
+        "name": "Heater 3",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"
+      },
+      {
+        "keyboardKey": "A",
+        "name": "Heater 4",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3"
+      },
+      {
+        "keyboardKey": "S",
+        "name": "Clap",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3"
+      },
+      {
+        "keyboardKey": "D",
+        "name": "Open HH",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3"
+      },
+      {
+        "keyboardKey": "Z",
+        "name": "Kick n' Hat",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3"
+      },
+      {
+        "keyboardKey": "X",
+        "name": "Kick",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3"
+      },
+      {
+        "keyboardKey": "C",
+        "name": "Closed HH",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3"
+      }
+    ],
+    "smoothPianoKit": [
+    {
+        "keyboardKey": "Q",
+        "name": "Chord 1",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3"
+      },
+      {
+        "keyboardKey": "W",
+        "name": "Chord 2",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Chord_2.mp3"
+      },
+      {
+        "keyboardKey": "E",
+        "name": "Chord 3",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Chord_3.mp3"
+      },
+      {
+        "keyboardKey": "A",
+        "name": "Shaker",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Give_us_a_light.mp3"
+      },
+      {
+        "keyboardKey": "S",
+        "name": "Open HH",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Dry_Ohh.mp3"
+      },
+      {
+        "keyboardKey": "D",
+        "name": "Closed HH",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3"
+      },
+      {
+        "keyboardKey": "Z",
+        "name": "Punchy Kick",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/punchy_kick_1.mp3"
+      },
+      {
+        "keyboardKey": "X",
+        "name": "Side Stick",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/side_stick_1.mp3"
+      },
+      {
+        "keyboardKey": "C",
+        "name": "Snare",
+        "file": "https://s3.amazonaws.com/freecodecamp/drums/Brk_Snr.mp3"
+      }
+    ]
+  }
